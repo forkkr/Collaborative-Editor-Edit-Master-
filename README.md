@@ -1,4 +1,4 @@
-# Collaborative-Editor-Edit-Master-
+# Edit-Master(The collaborative text editor)
 Introduction:
 The objective of the given project was to learn the implementation of the basic knowledge of Objected oriented programming language in our practical life scenario. Object oriented programming lab was designed to introduce us with a programming language JAVA as well as to enhance our knowledge of object oriented programming. This project is our first project using JAVA and it teaches us the application of object oriented programming.
 
